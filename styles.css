@@ -2,7 +2,7 @@ body {
 
 font-family: Arial, sans-serif;
 
-color: #87cefa;
+color: 	#5F9EA0;
 
 background-color:#87CEFA;
 
@@ -96,7 +96,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+color: 	#5F9EA0;
 
 text-decoration: none;
 
@@ -110,14 +110,14 @@ text-decoration: underline;
 }
 img {
 
-border: 5px solid #4CAF50;
+border: 5px solid 	#5F9EA0;
 
 border-radius: 10px;
 
 }
 main a[href^="mailto:"] {
 
-color: #ff5722;
+color: 	#5F9EA0;
 
 font-weight: bold;
 
